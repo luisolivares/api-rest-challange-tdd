@@ -8,7 +8,7 @@
     <groupId>ar.com.sancorsalud.crm</groupId>
     <artifactId>crm-code-challenge</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>CRM-CodeChallenge</name>
+    <name>api-rest-challenge-tdd</name>
     <packaging>jar</packaging>
 
     <properties>
